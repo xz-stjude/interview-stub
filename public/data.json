@@ -3,35 +3,35 @@
         "id": 1,
         "name": "John Doe",
         "age": 54,
-        "cancer_diagnosis": "Lung Cancer",
+        "diagnosis": "Common Cold",
         "smoker": true
     },
     {
         "id": 2,
         "name": "Jane Smith",
         "age": 47,
-        "cancer_diagnosis": "Breast Cancer",
+        "diagnosis": "Allergic Rhinitis",
         "smoker": false
     },
     {
         "id": 3,
         "name": "Alice Johnson",
         "age": 62,
-        "cancer_diagnosis": "Colorectal Cancer",
+        "diagnosis": "Gastroenteritis",
         "smoker": false
     },
     {
         "id": 4,
         "name": "Bob Williams",
         "age": 70,
-        "cancer_diagnosis": "Prostate Cancer",
+        "diagnosis": "Tension Headache",
         "smoker": true
     },
     {
         "id": 5,
         "name": "Charlie Brown",
         "age": 55,
-        "cancer_diagnosis": "Melanoma",
+        "diagnosis": "Athlete's Foot",
         "smoker": false
     }
 ]
