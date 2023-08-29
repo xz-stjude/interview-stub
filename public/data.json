@@ -1,0 +1,32 @@
+[
+    {
+        "name": "John Doe",
+        "age": 54,
+        "cancer_diagnosis": "Lung Cancer",
+        "smoker": true
+    },
+    {
+        "name": "Jane Smith",
+        "age": 47,
+        "cancer_diagnosis": "Breast Cancer",
+        "smoker": false
+    },
+    {
+        "name": "Alice Johnson",
+        "age": 62,
+        "cancer_diagnosis": "Colorectal Cancer",
+        "smoker": false
+    },
+    {
+        "name": "Bob Williams",
+        "age": 70,
+        "cancer_diagnosis": "Prostate Cancer",
+        "smoker": true
+    },
+    {
+        "name": "Charlie Brown",
+        "age": 55,
+        "cancer_diagnosis": "Melanoma",
+        "smoker": false
+    }
+]
