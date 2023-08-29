@@ -1,29 +1,34 @@
 [
     {
+        "id": 1,
         "name": "John Doe",
         "age": 54,
         "cancer_diagnosis": "Lung Cancer",
         "smoker": true
     },
     {
+        "id": 2,
         "name": "Jane Smith",
         "age": 47,
         "cancer_diagnosis": "Breast Cancer",
         "smoker": false
     },
     {
+        "id": 3,
         "name": "Alice Johnson",
         "age": 62,
         "cancer_diagnosis": "Colorectal Cancer",
         "smoker": false
     },
     {
+        "id": 4,
         "name": "Bob Williams",
         "age": 70,
         "cancer_diagnosis": "Prostate Cancer",
         "smoker": true
     },
     {
+        "id": 5,
         "name": "Charlie Brown",
         "age": 55,
         "cancer_diagnosis": "Melanoma",
